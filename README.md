@@ -10,11 +10,11 @@
 
 🔄 Criticas, dicas e opiniões são sempre bem vindas!
 
-✅ Por enquanto, eu já aprendi:
+✅ Por enquanto, eu já conheço:
 - HTML / CSS;
 - Javascript;
 - Git;
 
-⭕ Ainda estou aprendendo:
+⭕ Ainda estou conhecendo:
 - Java;
 - SQL;
