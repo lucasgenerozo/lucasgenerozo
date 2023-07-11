@@ -6,15 +6,16 @@
 
 🚀 Sou bem novo, tenho 17 anos, e ainda estou começando na área.
 
-📚 Estou cursando Análise e Desenvolvimento de Sistemas.
+📚 Estou cursando Análise e Desenvolvimento de Sistemas e estou no meu primeiro estágio na área.
 
 🔄 Criticas, dicas e opiniões são sempre bem vindas!
 
 ✅ Por enquanto, eu já conheço:
 - HTML / CSS;
 - Javascript;
+- SQL;
+- PHP;
 - Git;
 
-⭕ Ainda estou conhecendo:
+⭕ Ainda eNostou conhecendo:
 - Java;
-- SQL;
