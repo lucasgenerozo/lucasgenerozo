@@ -17,5 +17,5 @@
 - PHP;
 - Git;
 
-⭕ Ainda eNostou conhecendo:
+⭕ Ainda estou conhecendo:
 - Java;
