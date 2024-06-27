@@ -1,21 +1,20 @@
 # Olá, Mundo!👋
 
-## Eu sou o Lucas, e seja muito bem vindo!🌻
+## Eu sou o Lucas, e seja muito bem vindo ao meu perfil!🌻
 
-💻 Sou apaixonado por programar, e tenho muito interesse na área de front-end.
+💻 Sou apaixonado em aprender, amo programar e adoro desafios.
 
-🚀 Sou bem novo, tenho 17 anos, e ainda estou começando na área.
+🚀 Tenho 19 anos e estou no meu primeiro emprego na área, atuando como analisa e desenvolvedor de sistemas junior.
 
-📚 Estou cursando Análise e Desenvolvimento de Sistemas e estou no meu primeiro estágio na área.
+📚 Estou no segundo ano de Análise e Desenvolvimento de Sistemas.
 
 🔄 Criticas, dicas e opiniões são sempre bem vindas!
 
-✅ Por enquanto, eu já conheço:
-- HTML / CSS;
-- Javascript;
-- SQL;
-- PHP;
-- Git;
+⚒️ Atualmente trabalho com:
+- PHP
+- HTML/CSS
+- Javascript
 
-⭕ Ainda estou conhecendo:
-- Java;
+🛠️ Pretendo me aprofundar mais em:
+- Vue.js
+- Laravel
